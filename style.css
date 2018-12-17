@@ -12,3 +12,8 @@ button {
 input {
 	font-size: 100px;
 }
+
+h2 {
+	font-size: 100px
+	color: red;
+}

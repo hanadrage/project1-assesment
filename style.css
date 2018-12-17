@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+	font-size: 100px;
+}
+
+button {
+	background-color: grey;
+	color: white;
+	font-size: 100px;
+}
+
+input {
+	font-size: 100px;
+}
